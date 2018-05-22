@@ -4,4 +4,8 @@
 
 ### Variables
 
-### 
+### Logging
+
+### Functions
+
+### Objects
