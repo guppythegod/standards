@@ -4,6 +4,7 @@
 
 - [Python Code Style](http://docs.python-guide.org/en/latest/writing/style/)
 - [Docstring Conventions](https://www.python.org/dev/peps/pep-0257/)
+- [Chromium Style Guide](https://www.chromium.org/chromium-os/python-style-guidelines)
 
 Version: 3.6.5
 Package Manager: pip
